@@ -59,3 +59,5 @@ class Login extends React.Component {
 
 };
 
+
+window.Login = Login;
